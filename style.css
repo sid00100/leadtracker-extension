@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Comfortaa', cursive;
+    width: 405px;
+}
+
+/* alligning buttons and textbox */
+
+.allign {
+    position: relative;
+    left: 25%;
+}
+
+/* positioning the text box */
+
+#save-btn {
+    position: relative;
+    top: 31px;
+    left: -35px;
+}
+
+#list-of-leads {
+    position: relative;
+    top: 45px;
+    margin-bottom: 20px;
+}
