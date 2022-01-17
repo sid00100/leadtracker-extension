@@ -14,5 +14,4 @@ saveButtonJs.addEventListener("click", function () {
     myLeadJs = JSON.parse(myLeadJs);
     textInputBoxJs.value = "";
     console.log(myLeadJs);
-
 })
