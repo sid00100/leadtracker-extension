@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: 'Comfortaa', cursive;
     width: 405px;
+    background-color: rgb(226, 134, 134);
 }
 
 /* alligning buttons and textbox */
@@ -22,5 +23,8 @@ body {
 #list-of-leads {
     position: relative;
     top: 45px;
-    margin-bottom: 20px;
+}
+
+p {
+    padding-bottom: 30px;
 }
